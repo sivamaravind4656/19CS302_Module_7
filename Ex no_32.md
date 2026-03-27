@@ -18,8 +18,8 @@ using structure.
 ```
 /*
 C program to display Hardware details such as price, product name and price using structure.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include<stdio.h> 
 struct hardware
